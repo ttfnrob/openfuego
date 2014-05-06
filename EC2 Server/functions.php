@@ -182,7 +182,7 @@ $html2 = '
 
   <h4>Who Am I Tracking?</h4>
   <p>
-    I\'m tracking myself (seems like a good a place to start as any!) and a bunch of my favourite go-to astronomers on Twitter. The accounts they follow are also monitored, up to about 5,000 accounts. It isn\'t necessarily those people that will rise to the top here though - but more likley the sources of the links they share. I will continulously modify the list of source accounts, to maximise the useful of this page.
+    I\'m tracking myself (seems like a good a place to start as any!) and a bunch of my favourite go-to astronomers on Twitter. The accounts they follow are also monitored, up to about 5,000 accounts. It isn\'t necessarily those people that will rise to the top here though - but more likely the sources of the links they share. I will continuously modify the list of source accounts, to maximise the useful of this page.
   </p>
 
   <h4>Why Do This?</h4>
