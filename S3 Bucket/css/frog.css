@@ -405,7 +405,7 @@ div#logo {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 40px;
-    width: 940px;
+    width: auto;
     word-wrap: break-word;
 }
 
@@ -423,7 +423,7 @@ div#logo #site-title, #site-title a {
     margin-top: 0px;
     text-decoration: none;
     text-rendering: optimizelegibility;
-    width: 940px;
+    width: auto;
     word-wrap: break-word;
     letter-spacing: 0.1px;
 }

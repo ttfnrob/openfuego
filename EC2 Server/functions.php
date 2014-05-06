@@ -11,7 +11,7 @@ function default_value(&$var, $default) {
 require 'aws-php/vendor/autoload.php';
 use Aws\S3\S3Client;
 $client = S3Client::factory();
-$bucket = 'orbitingfrog';
+$bucket = 'links.orbitingfrog.com';
 $client->waitUntilBucketExists(array('Bucket' => $bucket));
 
 // Kerep track of the numbe rof times lorempixel is used
