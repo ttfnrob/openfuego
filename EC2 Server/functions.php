@@ -73,7 +73,7 @@ $html1 = '<!doctype html>
         <div class="menu-header-container">
           <ul id="menu-top-menu" class="nav nav-menu menu">
             <li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item">
-              <a href="/" title="Home">&larr; Back to Orbiting Frog</a>
+              <a href="http://orbitingfrog.com/" title="Home">&larr; Back to Orbiting Frog</a>
             </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item" id="workPage">Links</li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom" id="aboutPage">About</li>
