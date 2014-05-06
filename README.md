@@ -3,10 +3,10 @@
 #### View live site at http://links.orbitingfrog.com
 
 #### What Is This?
-This is an auotmated set of links currently being tweeted by the astronomers of Twitter. I take a small set of my favourite astro-Tweeters, and follow their tweets, and the tweets they follow too. As links are shared, I store them and keep track of how often they are retweeted or poste elsewhere. Those that rise to the top in any 24-hour period are displayed here.
+This is an automated set of links currently being tweeted by the astronomers of Twitter. I take a small set of my favourite astro-Tweeters, and follow their tweets, and the tweets they follow too. As links are shared, I store them and keep track of how often they are retweeted or posted elsewhere. Those that rise to the top in any 24-hour period are displayed here.
 
 #### Who Am I Tracking?
-I'm tracking myself (seems like a good a place to start as any!) and a bunch of my favourite go-to astronomers on Twitter. The accounts they follow are also monititored, up to about 5,000 accounts. It isn't necessarily those people that will rise to the top here though - but more likley the sources of the links they share. I will continulously modify the list of source accounts, to maximise the useful of this page.
+I'm tracking myself (seems like a good a place to start as any!) and a bunch of my favourite go-to astronomers on Twitter. The accounts they follow are also monitored, up to about 5,000 accounts. It isn't necessarily those people that will rise to the top here though - but more likely the sources of the links they share. I will continuously modify the list of source accounts, to maximise the useful of this page.
 
 #### Why Do This?
 To find interesting stuff! The topics will vary day-to-day, and sources of interesting links should rise to the top organically. I see this as an alternative news source, delivering material aligned with the interests of my peers on Twitter. It's an experiment too - and a coding project I've been wanting to build for a while now.
