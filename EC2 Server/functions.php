@@ -46,6 +46,7 @@ $html1 = '<!doctype html>
 <link rel="apple-touch-icon" href="images/favicons/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png">
+<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/OrbitingLinks" title="Orbiting Links RSS Feed">
 
 <script src="js/libs/modernizr.min.js"></script>
 <script src="js/libs/jquery-1.8.3.min.js"></script>
@@ -77,6 +78,7 @@ $html1 = '<!doctype html>
             </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item" id="workPage">Links</li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom" id="aboutPage">About</li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="rssLink"><a href="http://feeds.feedburner.com/OrbitingLinks">RSS</a></li>
             </ul>
           </div>
       </div><!-- /.nav-collapse -->
